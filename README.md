@@ -8,22 +8,12 @@
 ### 💻 About Me
 
 - 🎓 Studying Networking & Cybersecurity at ICBT
-- 🎯 Goal: Become a Red Team Hacker & Cybersecurity Pro
 - 🧪 Currently learning:
   - HND in Networking & CyberSecurity (ICBT)
   - Python Programming (IIT)
   - CompTIA Security+ & Network+
   - PJPT (Practical Junior Penetration Tester)
   - AWS Cloud Practitioner
-
-
----
-
-### 🛠️ Skills & Tools
-
-- **Languages**: Python, Bash, C++
-- **OS**: Ubuntu , Windows 
-- **Certs in Progress**: IBM, CompTIA, PJPT
 
 ---
 
